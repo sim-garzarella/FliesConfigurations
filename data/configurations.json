@@ -1,0 +1,377 @@
+[
+	{
+		"configuration": 0,
+		"positions":[
+			{
+				"fly":1,
+				"position": {
+					"x":0,
+					"y":350
+				}
+			},
+			{
+				"fly":2,
+				"position": {
+					"x":900,
+					"y":0
+				}
+			},
+			{
+				"fly":3,
+				"position": {
+					"x":0,
+					"y":0
+				}
+			},
+			{
+				"fly":4,
+				"position": {
+					"x":900,
+					"y":350
+				}
+			},
+			{
+				"fly":5,
+				"position": {
+					"x":450,
+					"y":275
+				}
+			},
+			{
+				"fly":6,
+				"position": {
+					"x":600,
+					"y":275
+				}
+			},
+			{
+				"fly":7,
+				"position": {
+					"x":300,
+					"y":275
+				}
+			},
+			{
+				"fly":8,
+				"position": {
+					"x":525,
+					"y":175
+				}
+			},
+			{
+				"fly":9,
+				"position": {
+					"x":375,
+					"y":175
+				}
+			},
+			{
+				"fly":10,
+				"position": {
+					"x":450,
+					"y":75
+				}
+			}
+		]
+	},
+	{
+		"configuration": 1,
+		"positions":[
+			{
+				"fly":1,
+				"position": {
+					"x":100,
+					"y":125
+				}
+			},
+			{
+				"fly":2,
+				"position": {
+					"x":200,
+					"y":125
+				}
+			},
+			{
+				"fly":3,
+				"position": {
+					"x":100,
+					"y":225
+				}
+			},
+			{
+				"fly":4,
+				"position": {
+					"x":200,
+					"y":225
+				}
+			},
+			{
+				"fly":5,
+				"position": {
+					"x":700,
+					"y":125
+				}
+			},
+			{
+				"fly":6,
+				"position": {
+					"x":800,
+					"y":225
+				}
+			},
+			{
+				"fly":7,
+				"position": {
+					"x":700,
+					"y":225
+				}
+			},
+			{
+				"fly":8,
+				"position": {
+					"x":800,
+					"y":125
+				}
+			},
+			{
+				"fly":9,
+				"position": {
+					"x":450,
+					"y":0
+				}
+			},
+			{
+				"fly":10,
+				"position": {
+					"x":450,
+					"y":350
+				}
+			}
+		]
+	},
+	{
+		"configuration": 2,
+		"positions":[
+			{
+				"fly":1,
+				"position": {
+					"x":0,
+					"y":350
+				}
+			},
+			{
+				"fly":2,
+				"position": {
+					"x":900,
+					"y":350
+				}
+			},
+			{
+				"fly":3,
+				"position": {
+					"x":0,
+					"y":0
+				}
+			},
+			{
+				"fly":4,
+				"position": {
+					"x":900,
+					"y":0
+				}
+			},
+			{
+				"fly":5,
+				"position": {
+					"x":450,
+					"y":0
+				}
+			},
+			{
+				"fly":6,
+				"position": {
+					"x":225,
+					"y":175
+				}
+			},
+			{
+				"fly":7,
+				"position": {
+					"x":675,
+					"y":175
+				}
+			},
+			{
+				"fly":8,
+				"position": {
+					"x":450,
+					"y":350
+				}
+			},
+			{
+				"fly":9,
+				"position": {
+					"x":0,
+					"y":175
+				}
+			},
+			{
+				"fly":10,
+				"position": {
+					"x":900,
+					"y":175
+				}
+			}
+		]
+	},
+	{
+		"configuration": 3,
+		"positions":[
+			{
+				"fly":1,
+				"position": {
+					"x":450,
+					"y":0
+				}
+			},
+			{
+				"fly":2,
+				"position": {
+					"x":450,
+					"y":350
+				}
+			},
+			{
+				"fly":3,
+				"position": {
+					"x":500,
+					"y":175
+				}
+			},
+			{
+				"fly":4,
+				"position": {
+					"x":200,
+					"y":0
+				}
+			},
+			{
+				"fly":5,
+				"position": {
+					"x":200,
+					"y":175
+				}
+			},
+			{
+				"fly":6,
+				"position": {
+					"x":200,
+					"y":350
+				}
+			},
+			{
+				"fly":7,
+				"position": {
+					"x":700,
+					"y":0
+				}
+			},
+			{
+				"fly":8,
+				"position": {
+					"x":700,
+					"y":175
+				}
+			},
+			{
+				"fly":9,
+				"position": {
+					"x":700,
+					"y":350
+				}
+			},
+			{
+				"fly":10,
+				"position": {
+					"x":400,
+					"y":175
+				}
+			}
+		]
+	},
+	{
+		"configuration": 4,
+		"positions":[
+			{
+				"fly":1,
+				"position": {
+					"x":900,
+					"y":50
+				}
+			},
+			{
+				"fly":2,
+				"position": {
+					"x":800,
+					"y":150
+				}
+			},
+			{
+				"fly":3,
+				"position": {
+					"x":700,
+					"y":250
+				}
+			},
+			{
+				"fly":4,
+				"position": {
+					"x":600,
+					"y":350
+				}
+			},
+			{
+				"fly":5,
+				"position": {
+					"x":0,
+					"y":50
+				}
+			},
+			{
+				"fly":6,
+				"position": {
+					"x":100,
+					"y":150
+				}
+			},
+			{
+				"fly":7,
+				"position": {
+					"x":200,
+					"y":250
+				}
+			},
+			{
+				"fly":8,
+				"position": {
+					"x":300,
+					"y":350
+				}
+			},
+			{
+				"fly":9,
+				"position": {
+					"x":450,
+					"y":50
+				}
+			},
+			{
+				"fly":10,
+				"position": {
+					"x":450,
+					"y":175
+				}
+			}
+		]
+	}
+]
