@@ -40,7 +40,7 @@ d3.json("../data/configurations.json").then(
     updateDrawing(data[0]);
 
     document.addEventListener("keydown", function() {
-      if (event.key == "y") {
+      if (event.key == "y" || event.key == "Y") {
         pressingYKey = true;
       }
     });
